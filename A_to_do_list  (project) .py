@@ -53,5 +53,5 @@ del_btn.grid(row=0, column=1, padx=5)
 clear_btn = tk.Button(btn_frame, text="Clear All", font=("Arial", 12), bg="#c94c4c", fg="white", width=10, command=clear_all)
 clear_btn.grid(row=0, column=2, padx=5)
 
-# Run the app
+# Run   the   app
 root.mainloop()
